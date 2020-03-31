@@ -1,3 +1,5 @@
+# Create By Emre Çilekci//
+
 tahminsayı=42
 
 is_alive = True
