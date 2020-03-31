@@ -3,4 +3,6 @@
 toplam = 0;
 for i in range (0,10):
     toplam+=i;
-    print(toplam);
+
+print(toplam);
+
